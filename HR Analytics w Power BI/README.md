@@ -2,7 +2,7 @@
 
 ## Tech Stack Used
 Power BI
-![image](https://github.com/user-attachments/assets/ea83c633-866a-461e-a7b6-9e7975671076)
+<img src="https://github.com/user-attachments/assets/ea83c633-866a-461e-a7b6-9e7975671076" width="200" height="200">
 
 ## Objective
  . Analyze hiring trend
