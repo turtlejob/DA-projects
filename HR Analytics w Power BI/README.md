@@ -1,7 +1,7 @@
 # ATLAS Lab HR Analytics Dashboard
 
 ## Tech Stack Used
-Power BI
+Power BI <br/>
 <img src="https://github.com/user-attachments/assets/ea83c633-866a-461e-a7b6-9e7975671076" width="200" height="200">
 
 ## Objective
