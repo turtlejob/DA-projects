@@ -7,7 +7,7 @@ Power BI <br/>
 ## Objective
 - Analyze hiring trend
 - Report about active employee distribution over departments
-- Measure **Attrition** rate (*Attrition - departure of employees from the organization voluntarily or involuntarily 
+- Measure **Attrition** rate (*Attrition - departure of employees from the organization voluntarily or involuntarily*) 
 - Find out what is the main reasons behind attrition
 - Track employee performance
 - Explore demography data to analyze diversity in the organization
