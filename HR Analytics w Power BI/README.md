@@ -5,18 +5,18 @@ Power BI <br/>
 <img src="https://github.com/user-attachments/assets/ea83c633-866a-461e-a7b6-9e7975671076" width="200" height="200">
 
 ## Objective
- . Analyze hiring trend
- . Report about active employee distribution over departments
- . Measure **Attrition** rate (*Attrition - departure of employees from the organization voluntarily or involuntarily 
- . Find out what is the main reasons behind attrition
- . Track employee performance
- . Explore demography data to analyze diversity in the organization
+- Analyze hiring trend
+- Report about active employee distribution over departments
+- Measure **Attrition** rate (*Attrition - departure of employees from the organization voluntarily or involuntarily 
+- Find out what is the main reasons behind attrition
+- Track employee performance
+- Explore demography data to analyze diversity in the organization
 
 ## Steps
-. ETL
-. Data Modeling
-. Dax functions to calculate measures
-. Visualization
+- ETL
+- Data Modeling
+- Dax functions to calculate measures
+- Visualization
 
 ### Overview
 ![hr1](https://github.com/user-attachments/assets/be771910-1529-4fc3-9bfc-724243178fdf)
